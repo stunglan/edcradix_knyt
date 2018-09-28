@@ -152,6 +152,7 @@ A few commands & tasks: (examples in the `part6` branch):
 
 A few commands & tasks: (examples in the `part7` branch):
 * Create the file `radixconfig.yaml` in the local home dir of your project
+  * Remember to change the name of the app in the example file to reflect your setup!
 * Define the projects Radix environment (start with one)
   * Example file: https://github.com/larskaare/edcradix/blob/part7/radixconfig.yaml
   * Documentation: https://github.com/Statoil/radix-operator/blob/master/docs/radixconfig.md
